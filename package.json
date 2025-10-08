@@ -1,11 +1,9 @@
 {
-  "name": "project",
+  "name": "Project",
   "version": "1.0.0",
   "description": "",
   "main": "apiauth.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
 }
